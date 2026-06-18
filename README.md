@@ -1,4 +1,4 @@
-# MacroZone - React Native Crash Course
+# MacroZone - Health App
 
 A macro tracking app built with React Native and Expo. Track your daily meals and monitor your macros (calories, protein, carbs, fat) with a clean, modern UI.
 
