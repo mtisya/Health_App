@@ -1,8 +1,6 @@
 # MacroZone - React Native Crash Course
 
-A macro tracking app built with React Native and Expo as part of the [React Native Crash Course](https://youtu.be/XCifkDC0yXA) on YouTube by Traversy Media. Track your daily meals and monitor your macros (calories, protein, carbs, fat) with a clean, modern UI.
-
-> **📝 Following along with the course?** Check out the [STEPS.md](STEPS.md) file for the complete step-by-step guide with all the code for each section. The drawing from the video is also in this repo.
+A macro tracking app built with React Native and Expo. Track your daily meals and monitor your macros (calories, protein, carbs, fat) with a clean, modern UI.
 
 <p align="center">
   <img src="assets/screen.png" alt="MacroZone App" width="300" />
@@ -51,9 +49,6 @@ npx expo start
 
 Scan the QR code with Expo Go (Android) or the Camera app (iOS) to run on your device.
 
-## Course Steps
-
-The full step-by-step guide with all the code for the crash course is available in the [STEPS.md](STEPS.md) file.
 
 ## License
 
