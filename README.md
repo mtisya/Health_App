@@ -26,15 +26,6 @@ A macro tracking app built with React Native and Expo. Track your daily meals an
 - [Expo Haptics](https://docs.expo.dev/versions/latest/sdk/haptics/) for tactile feedback
 - TypeScript
 
-## Getting Started
-
-### Prerequisites
-
-- [Node.js](https://nodejs.org/) (LTS)
-- [Expo Go](https://expo.dev/go) app on your phone, or an Android/iOS emulator
-
-### Installation
-
 ```bash
 git clone https://github.com/bradtraversy/macrozone.git
 cd macrozone
