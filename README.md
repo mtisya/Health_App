@@ -27,7 +27,7 @@ A macro tracking app built with React Native and Expo. Track your daily meals an
 - TypeScript
 
 ```bash
-git clone https://github.com/mtisya/macrozone.git
+git clone https://github.com/mtisya/Health_App.git
 cd macrozone
 npm install
 ```
